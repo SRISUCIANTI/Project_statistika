@@ -1,0 +1,19 @@
+ANALISIS REGRESI LINEAR SEDERHANA
+=============================================
+
+Judul Penelitian:
+Prediksi Harga Jual Motor Bekas Berdasarkan Tahun Keluaran
+
+Jumlah Data : 99
+
+Persamaan Regresi:
+Harga_Jual = -15345851.66 + (7650.53 × Tahun_Keluaran)
+
+Evaluasi Model:
+MAE  : 33173.07
+MSE  : 1593367796.16
+RMSE : 39917.01
+R²   : 0.3358
+
+Interpretasi:
+Setiap kenaikan satu tahun keluaran motor diperkirakan mengubah harga jual sebesar 7650.53 rupiah.

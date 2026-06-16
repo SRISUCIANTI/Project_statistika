@@ -1,0 +1,3 @@
+PERSAMAAN REGRESI LINEAR
+========================
+Harga_Jual = -15345851.66 + (7650.53 × Tahun_Keluaran)
